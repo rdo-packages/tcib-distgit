@@ -20,6 +20,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f95ae3d6_bba6d801",
+        "filename": "python-tcib.spec",
+        "patchSetId": 13
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-03-01T16:43:10Z",
+      "side": 1,
+      "message": "I guess it\u0027s not needed here as it won\u0027t be signed by OpenStack key",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 67
+      },
+      "revId": "ae633a6888ac247b6a61cad6235150eb1a1397fa",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "49b38e77_25063d97",
         "filename": "python-tcib.spec",
         "patchSetId": 13
