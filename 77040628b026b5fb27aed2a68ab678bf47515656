@@ -41,6 +41,30 @@
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4dcc7432_5a787036",
+        "filename": "python-tcib.spec",
+        "patchSetId": 11
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2023-03-01T08:48:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dc9d2895_8afd3401",
+      "range": {
+        "startLine": 25,
+        "startChar": 32,
+        "endLine": 25,
+        "endChar": 33
+      },
+      "revId": "77040628b026b5fb27aed2a68ab678bf47515656",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e9aff3a0_60318c48",
@@ -64,6 +88,30 @@
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "344090f1_b6c366b5",
+        "filename": "python-tcib.spec",
+        "patchSetId": 11
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2023-03-01T08:48:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e9aff3a0_60318c48",
+      "range": {
+        "startLine": 53,
+        "startChar": 10,
+        "endLine": 53,
+        "endChar": 25
+      },
+      "revId": "77040628b026b5fb27aed2a68ab678bf47515656",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "75e37ec4_7d2624a8",
@@ -77,6 +125,30 @@
       "writtenOn": "2023-03-01T07:53:00Z",
       "side": 1,
       "message": "I\u0027d recommend to set minimal versions matching what is in https://github.com/openstack-k8s-operators/tcib/blob/main/requirements.txt",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 22
+      },
+      "revId": "77040628b026b5fb27aed2a68ab678bf47515656",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a64260ea_75dd4d07",
+        "filename": "python-tcib.spec",
+        "patchSetId": 11
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2023-03-01T08:48:55Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "75e37ec4_7d2624a8",
       "range": {
         "startLine": 47,
         "startChar": 0,
