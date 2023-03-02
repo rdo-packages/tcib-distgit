@@ -41,6 +41,30 @@
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5c96253_20b7c9e7",
+        "filename": "python-tcib.spec",
+        "patchSetId": 13
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-03-02T08:40:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f95ae3d6_bba6d801",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 67
+      },
+      "revId": "ae633a6888ac247b6a61cad6235150eb1a1397fa",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "49b38e77_25063d97",
