@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29c9b9d8_3b0c61cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 14
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2023-03-02T09:36:06Z",
+      "side": 1,
+      "message": "fedora-review sent to the merntioned bz",
+      "revId": "66abb0d364d6ea60f516764dfd96053aedf681aa",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
