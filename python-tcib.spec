@@ -101,3 +101,4 @@ TCIB container image.
 
 %changelog
 
+# REMOVEME: error caused by commit https://github.com/openstack-k8s-operators/tcib/commit/702528200263b718495b2fb94f5ee5470e2de276
