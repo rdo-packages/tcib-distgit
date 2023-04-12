@@ -1,0 +1,8 @@
+Code-Review+2: Joel Capitao <jcapitao@redhat.com>
+Workflow+1: Joel Capitao <jcapitao@redhat.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Wed, 12 Apr 2023 10:16:19 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/openstack/tcib-distgit/+/48273
+Project: openstack/tcib-distgit
+Branch: refs/heads/zed-rdo
