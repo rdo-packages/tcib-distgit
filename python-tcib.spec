@@ -89,7 +89,7 @@ TCIB container image.
 
 %files -n python3-%{pypi_name}
 %license LICENSE
-%doc README.rst
+%doc README.md
 %{python3_sitelib}/%{pypi_name}
 %{python3_sitelib}/%{pypi_name}-*.egg-info
 %{_datadir}/ansible/roles/
