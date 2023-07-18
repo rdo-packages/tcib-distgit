@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85fc62f2_32076703",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 757
+      },
+      "writtenOn": "2023-07-18T10:38:58Z",
+      "side": 1,
+      "message": " There are differences in files between patched packages and trunk ones",
+      "revId": "107c283a3872a491384af2faee2115eab03faa52",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
