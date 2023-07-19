@@ -16,6 +16,24 @@
       "message": " There are differences in files between patched packages and trunk ones",
       "revId": "107c283a3872a491384af2faee2115eab03faa52",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5b6dc2b0_fd295f8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-07-19T09:07:53Z",
+      "side": 1,
+      "message": "There is now only the .pyc files which should be kept according to the Fedora Packaging Guidelines for Python[1]\n\n[1] https://fedoraproject.org/wiki/User:Churchyard/Python2Drop/Packaging:Python#Files_to_include",
+      "parentUuid": "85fc62f2_32076703",
+      "revId": "107c283a3872a491384af2faee2115eab03faa52",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
