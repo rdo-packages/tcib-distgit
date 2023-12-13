@@ -10,8 +10,8 @@ images.
 
 Name:           python-%{pypi_name}
 Summary:        A repository to build container images
-Version:        0.1.0
-Release:        2%{dist}
+Version:        0.2.0
+Release:        1%{dist}
 License:        Apache-2.0
 URL:            https://github.com/openstack-k8s-operators/tcib
 Source0:        https://github.com/openstack-k8s-operators/%{pypi_name}/archive/%{version}.tar.gz
@@ -93,6 +93,9 @@ TCIB container image.
 %{_datadir}/%{pypi_name}
 
 %changelog
+* Wed Dec 13 2023 RDO <dev@lists.rdoproject.org> 0.2.0-1
+- Update to 0.2.0
+
 * Fri Oct 20 2023 RDO <dev@lists.rdoproject.org> 0.1.0-2
 - Add missing dist
 
