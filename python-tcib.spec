@@ -93,3 +93,4 @@ TCIB container image.
 %{_datadir}/%{pypi_name}
 
 %changelog
+# REMOVEME: error caused by commit https://github.com/openstack-k8s-operators/tcib/commit/d65b419f05e4c0ea216efc5c12b19acbba135bad
