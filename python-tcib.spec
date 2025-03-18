@@ -1,4 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}}
+%{?dlrn: %global tarsources tcib}
+%{!?dlrn: %global tarsources tcib}
 # we are excluding some BRs from automatic generator
 %global excluded_brs doc8 bandit pre-commit hacking flake8-import-order sphinx openstackdocstheme
 %global pypi_name tcib
@@ -14,7 +16,7 @@ Version:        XXX
 Release:        XXX
 License:        Apache-2.0
 URL:            https://github.com/openstack-k8s-operators/tcib
-Source0:        https://pypi.io/packages/source/g/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
+Source0:        https://pypi.io/packages/source/g/%{pypi_name}/%{tarsources}-%{upstream_version}.tar.gz
 BuildArch:      noarch
 
 BuildRequires:  python3-devel
@@ -37,7 +39,7 @@ Requires: %{name}-containers = %{version}-%{release}
 
 %prep
 
-%autosetup -n %{pypi_name}-%{upstream_version} -S git
+%autosetup -n %{tarsources}-%{upstream_version} -S git
 rm -rf *.egg-info
 
 
