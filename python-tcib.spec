@@ -98,3 +98,4 @@ TCIB container image.
 * Tue Mar 18 2025 RDO <dev@lists.rdoproject.org> 0.5.0-1
 - Update to 0.5.0
 
+# REMOVEME: error caused by commit https://github.com/openstack-k8s-operators/tcib/commit/99bd3061a26fbe71e172a4f2a288dfaa7fb96367
